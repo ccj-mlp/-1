@@ -5,7 +5,7 @@
      ![image](https://github.com/ccj-mlp/project-one/blob/master/README-IMAGES/04.png) <br /> 
       ![image](https://github.com/ccj-mlp/project-one/blob/master/README-IMAGES/05.png) <br /> 
        ![image](https://github.com/ccj-mlp/project-one/blob/master/README-IMAGES/06.png) <br /> 
-        ![image](https://github.com/ccj-mlp/project-one/blob/master/README-IMAGES/07.png) <br /> 
+        ![image](https://github.com/ccj-mlp/project-one/blob/master/README-IMAGES/07.png)  
          ![image](https://github.com/ccj-mlp/project-one/blob/master/README-IMAGES/08.png) <br /> 
 
 
